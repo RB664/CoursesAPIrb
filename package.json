@@ -2,9 +2,9 @@
   "name": "courseapp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "courses.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node courses.js",
     "dev": "nodemon"
   },
   "keywords": [],
@@ -19,5 +19,14 @@
   },
   "engines": {
     "node": "16.15.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RB664/CoursesAPIrb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RB664/CoursesAPIrb/issues"
+  },
+  "homepage": "https://github.com/RB664/CoursesAPIrb#readme"
 }

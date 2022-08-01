@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 const path = require('path');
 const app = express();
-const port = parseInt(process.env.PORT) || 4040;
+const port = parseInt(process.env.PORT) || 4000;
 
 const router = express.Router();
 
